@@ -1,0 +1,14 @@
+layout_spectrum: 0.5522581757977605
+typography_spectrum: 0.17373011750169098
+color:
+  brandStrength: 0.3472265948075801
+  lightness: 0.3116235395427793
+  saturation: 0.5138052783440799
+  rhythmicContrast: 0.7905729571357369
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: DeepThinking
